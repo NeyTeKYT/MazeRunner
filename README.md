@@ -50,8 +50,11 @@ Ce projet a été réalisé dans le cadre de l'**Unité d'Enseignement (UE) Base
 
 ## 📦 Compilation & Lancement
 
-Ce projet utilise la bibliothèque **ncurses**. Pour compiler : 
-`g++ *.cpp -o mazeRunner -lncurses`
-Puis lancer le jeu :
-`./mazeRunner`
+Ce projet utilise la bibliothèque **ncurses**. 
+
+Pour compiler :  
+`g++ *.cpp -o mazeRunner -lncurses`  
+
+Puis lancer le jeu :  
+`./mazeRunner`  
 
